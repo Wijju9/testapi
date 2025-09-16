@@ -1,0 +1,322 @@
+[
+  {
+    "city": "New York",
+    "country": "US",
+    "weather": {
+      "main": "Clouds",
+      "description": "scattered clouds"
+    },
+    "temperature": {
+      "current": 22.4,
+      "feels_like": 21.0,
+      "min": 20.0,
+      "max": 24.0
+    },
+    "humidity": 60,
+    "wind_speed": 4.5
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "weather": {
+      "main": "Rain",
+      "description": "light rain"
+    },
+    "temperature": {
+      "current": 18.2,
+      "feels_like": 17.3,
+      "min": 17.0,
+      "max": 19.0
+    },
+    "humidity": 85,
+    "wind_speed": 5.0
+  },
+  {
+    "city": "Tokyo",
+    "country": "JP",
+    "weather": {
+      "main": "Clear",
+      "description": "clear sky"
+    },
+    "temperature": {
+      "current": 27.8,
+      "feels_like": 29.0,
+      "min": 25.0,
+      "max": 30.0
+    },
+    "humidity": 70,
+    "wind_speed": 3.2
+  },
+  {
+    "city": "Paris",
+    "country": "FR",
+    "weather": {
+      "main": "Clouds",
+      "description": "broken clouds"
+    },
+    "temperature": {
+      "current": 20.5,
+      "feels_like": 19.8,
+      "min": 18.0,
+      "max": 22.0
+    },
+    "humidity": 75,
+    "wind_speed": 4.0
+  },
+  {
+    "city": "Sydney",
+    "country": "AU",
+    "weather": {
+      "main": "Clear",
+      "description": "sunny"
+    },
+    "temperature": {
+      "current": 25.0,
+      "feels_like": 25.0,
+      "min": 22.0,
+      "max": 27.0
+    },
+    "humidity": 50,
+    "wind_speed": 5.5
+  },
+  {
+    "city": "Moscow",
+    "country": "RU",
+    "weather": {
+      "main": "Snow",
+      "description": "light snow"
+    },
+    "temperature": {
+      "current": -2.0,
+      "feels_like": -6.0,
+      "min": -4.0,
+      "max": 0.0
+    },
+    "humidity": 92,
+    "wind_speed": 7.0
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "BR",
+    "weather": {
+      "main": "Thunderstorm",
+      "description": "thunderstorm with heavy rain"
+    },
+    "temperature": {
+      "current": 30.2,
+      "feels_like": 32.0,
+      "min": 28.0,
+      "max": 32.0
+    },
+    "humidity": 88,
+    "wind_speed": 6.5
+  },
+  {
+    "city": "Cape Town",
+    "country": "ZA",
+    "weather": {
+      "main": "Mist",
+      "description": "mist"
+    },
+    "temperature": {
+      "current": 16.8,
+      "feels_like": 16.0,
+      "min": 15.0,
+      "max": 19.0
+    },
+    "humidity": 93,
+    "wind_speed": 2.0
+  },
+  {
+    "city": "Mumbai",
+    "country": "IN",
+    "weather": {
+      "main": "Rain",
+      "description": "moderate rain"
+    },
+    "temperature": {
+      "current": 29.0,
+      "feels_like": 31.0,
+      "min": 28.0,
+      "max": 32.0
+    },
+    "humidity": 84,
+    "wind_speed": 5.8
+  },
+  {
+    "city": "Toronto",
+    "country": "CA",
+    "weather": {
+      "main": "Drizzle",
+      "description": "light intensity drizzle"
+    },
+    "temperature": {
+      "current": 15.0,
+      "feels_like": 14.5,
+      "min": 13.0,
+      "max": 17.0
+    },
+    "humidity": 86,
+    "wind_speed": 3.5
+  },
+  {
+    "city": "Beijing",
+    "country": "CN",
+    "weather": {
+      "main": "Haze",
+      "description": "haze"
+    },
+    "temperature": {
+      "current": 23.1,
+      "feels_like": 24.0,
+      "min": 22.0,
+      "max": 25.0
+    },
+    "humidity": 78,
+    "wind_speed": 4.3
+  },
+  {
+    "city": "Berlin",
+    "country": "DE",
+    "weather": {
+      "main": "Clouds",
+      "description": "overcast clouds"
+    },
+    "temperature": {
+      "current": 19.4,
+      "feels_like": 18.7,
+      "min": 18.0,
+      "max": 21.0
+    },
+    "humidity": 80,
+    "wind_speed": 5.1
+  },
+  {
+    "city": "Cairo",
+    "country": "EG",
+    "weather": {
+      "main": "Sand",
+      "description": "sand"
+    },
+    "temperature": {
+      "current": 35.5,
+      "feels_like": 38.0,
+      "min": 33.0,
+      "max": 37.0
+    },
+    "humidity": 12,
+    "wind_speed": 9.0
+  },
+  {
+    "city": "Lagos",
+    "country": "NG",
+    "weather": {
+      "main": "Clear",
+      "description": "clear sky"
+    },
+    "temperature": {
+      "current": 31.0,
+      "feels_like": 33.0,
+      "min": 30.0,
+      "max": 32.0
+    },
+    "humidity": 60,
+    "wind_speed": 3.2
+  },
+  {
+    "city": "Dubai",
+    "country": "AE",
+    "weather": {
+      "main": "Clear",
+      "description": "sunny"
+    },
+    "temperature": {
+      "current": 37.0,
+      "feels_like": 39.0,
+      "min": 35.0,
+      "max": 40.0
+    },
+    "humidity": 30,
+    "wind_speed": 4.0
+  },
+  {
+    "city": "Mexico City",
+    "country": "MX",
+    "weather": {
+      "main": "Clouds",
+      "description": "few clouds"
+    },
+    "temperature": {
+      "current": 24.7,
+      "feels_like": 25.0,
+      "min": 22.0,
+      "max": 27.0
+    },
+    "humidity": 65,
+    "wind_speed": 2.5
+  },
+  {
+    "city": "Seoul",
+    "country": "KR",
+    "weather": {
+      "main": "Clear",
+      "description": "clear sky"
+    },
+    "temperature": {
+      "current": 26.5,
+      "feels_like": 27.0,
+      "min": 24.0,
+      "max": 29.0
+    },
+    "humidity": 58,
+    "wind_speed": 3.8
+  },
+  {
+    "city": "Istanbul",
+    "country": "TR",
+    "weather": {
+      "main": "Mist",
+      "description": "mist"
+    },
+    "temperature": {
+      "current": 21.0,
+      "feels_like": 20.0,
+      "min": 19.0,
+      "max": 23.0
+    },
+    "humidity": 68,
+    "wind_speed": 2.8
+  },
+  {
+    "city": "Bangkok",
+    "country": "TH",
+    "weather": {
+      "main": "Rain",
+      "description": "heavy rain"
+    },
+    "temperature": {
+      "current": 30.5,
+      "feels_like": 32.0,
+      "min": 29.0,
+      "max": 33.0
+    },
+    "humidity": 90,
+    "wind_speed": 6.8
+  },
+  {
+    "city": "Singapore",
+    "country": "SG",
+    "weather": {
+      "main": "Clouds",
+      "description": "broken clouds"
+    },
+    "temperature": {
+      "current": 28.2,
+      "feels_like": 28.0,
+      "min": 27.0,
+      "max": 30.0
+    },
+    "humidity": 80,
+    "wind_speed": 4.9
+  }
+]
